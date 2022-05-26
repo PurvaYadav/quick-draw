@@ -26,6 +26,7 @@ font-weight: bold;
 #timer{
     float: right;
     font-weight: bold;
+    margin-right: 5px;
     }
 
     canvas {
@@ -41,7 +42,7 @@ font-weight: bold;
         to {box-shadow: 1px 1px 38px lightgreen;}  
     }
 
-    p {
+    p , span{
         padding-top: 10px;
         font-size: 25px;
         font-weight: bold;
